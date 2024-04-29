@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjectWork\\TextVenture\\TextVenture\\TextVenture.csproj": {}
+    "D:\\GIT\\.git\\TextVenture\\TextVenture\\TextVenture\\TextVenture.csproj": {}
   },
   "projects": {
-    "D:\\ProjectWork\\TextVenture\\TextVenture\\TextVenture.csproj": {
+    "D:\\GIT\\.git\\TextVenture\\TextVenture\\TextVenture\\TextVenture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjectWork\\TextVenture\\TextVenture\\TextVenture.csproj",
+        "projectUniqueName": "D:\\GIT\\.git\\TextVenture\\TextVenture\\TextVenture\\TextVenture.csproj",
         "projectName": "TextVenture",
-        "projectPath": "D:\\ProjectWork\\TextVenture\\TextVenture\\TextVenture.csproj",
+        "projectPath": "D:\\GIT\\.git\\TextVenture\\TextVenture\\TextVenture\\TextVenture.csproj",
         "packagesPath": "C:\\Users\\diabr\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjectWork\\TextVenture\\TextVenture\\obj\\",
+        "outputPath": "D:\\GIT\\.git\\TextVenture\\TextVenture\\TextVenture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
