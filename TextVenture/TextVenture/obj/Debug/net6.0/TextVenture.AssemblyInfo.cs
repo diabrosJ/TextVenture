@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextVenture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cc4b970a8fcdacb949ce08279439dc3d72e178b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93e37217ee56c72801b33a9eb025a9f6f948aa22")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextVenture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextVenture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
